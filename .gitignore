@@ -1,0 +1,4 @@
+# Exclude dependant perl modules
+Net-SNMP-v6.0.0/**
+Proc-Daemon-0.03/**
+SMT/**
